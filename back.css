@@ -8,8 +8,7 @@
 
 .context {
   width: 100%;
-  height: 100%
-
+  height: 100%;
   position: absolute;
   top: 50vh;
 }
@@ -48,7 +47,7 @@
   opacity: 0.01
 }
 
-}
+
 .circles li:nth-child(1) {
   left: 25%;
   width: 80px;
